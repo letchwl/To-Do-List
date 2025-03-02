@@ -1,4 +1,4 @@
-package dev.raullalves.UserManager.Principal;
+package dev.raullalvespe.ToDoList.Principal;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

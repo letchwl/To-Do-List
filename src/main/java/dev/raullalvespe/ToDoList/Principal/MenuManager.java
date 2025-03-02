@@ -1,8 +1,8 @@
-package dev.raullalves.UserManager.Principal;
+package dev.raullalvespe.ToDoList.Principal;
 
-import dev.raullalves.UserManager.Services.EmailService;
-import dev.raullalves.UserManager.Services.ItemService;
-import dev.raullalves.UserManager.Services.UserService;
+import dev.raullalvespe.ToDoList.Services.EmailService;
+import dev.raullalvespe.ToDoList.Services.ItemService;
+import dev.raullalvespe.ToDoList.Services.UserService;
 
 import java.util.Scanner;
 

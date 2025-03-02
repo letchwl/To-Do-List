@@ -1,4 +1,4 @@
-package dev.raullalves.UserManager;
+package dev.raullalvespe.ToDoList;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
